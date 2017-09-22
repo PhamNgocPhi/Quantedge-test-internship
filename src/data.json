@@ -1,0 +1,146 @@
+[
+  {
+    "code": "ABG.AX",
+    "company": "ABG JKFGJK DFGJFDGJK DFGDFJ",
+    "volume":125625,
+    "price": 1.23,
+    "value":  154519,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "BSDF.AX",
+    "company": "BVD FGF DSTIERT SDGF CSD",
+    "volume":823156,
+    "price": 1.079,
+    "value": 888185,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "GER.AX",
+    "company": "RIO TINTO LIMITED",
+    "volume":751264,
+    "price": 0.5281,
+    "value": 396743,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "YOP.AX",
+    "company": "UFGDF HJGHK HKIOQA PLMC",
+    "volume":569826,
+    "price": 1.12,
+    "value": 638205,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "YFF.AX",
+    "company": "EWAS QEWTI OPHJKL DFGFG GHGFJTYYTR",
+    "volume":965324,
+    "price": 1.13,
+    "value": 1090816,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "FIED.AX",
+    "company": "FDAF DFGFHWE WERWETER JKTUUJ",
+    "volume":459142,
+    "price": 5.32,
+    "value": 2442635,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "FGR.AX",
+    "company": "TYTFR DFGDF WERWTRE JUYKIYU",
+    "volume":125436,
+    "price": 7.125,
+    "value": 893732,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "HIU.AX",
+    "company": "UYI RSRGTERTY WETRRWET WEGFTER",
+    "volume":658745,
+    "price": 4.379,
+    "value":  2884644,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "ASD.AX",
+    "company": "SDGDFHY TRRUYTRUJRY ERFGER ",
+    "volume":451325,
+    "price": 2.32,
+    "value":  1047074,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "GFH.AX",
+    "company": "HYTRURUJ ERYET JYKYU",
+    "volume":823156,
+    "price": 3.021,
+    "value": 2486754.276,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "GEY.AX",
+    "company": "SDF YTIUY OPJKLHJ ASDW",
+    "volume":568232,
+    "price": 0.5281,
+    "value": 300083.3192,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "YTE.AX",
+    "company": "FDHGDH GFHGF QWRWETR CBBGFNJ",
+    "volume":236156,
+    "price": 1.122,
+    "value": 264967,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "EWR.AX",
+    "company": "GF GHG ERYTRH YUIOULO",
+    "volume":965324,
+    "price": 1.52,
+    "value": 1467292.48,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "GED.AX",
+    "company": "DFGHJ RTYUI YHB JKTUUJ",
+    "volume":459142,
+    "price": 0.23,
+    "value": 105602.66,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "FWED.AX",
+    "company": "RGERH IURTERIOUT JFKGHD DSF",
+    "volume":365921,
+    "price": 7.23,
+    "value": 2645608.83,
+    "change_value": 0,
+    "percent": 0
+  },
+  {
+    "code": "QPL.AX",
+    "company": "GFHJYTJ LUI WETRRWET WEGFTER",
+    "volume":658745,
+    "price": 1.98,
+    "value": 1304315.1,
+    "change_value": 0,
+    "percent": 0
+  }
+]
