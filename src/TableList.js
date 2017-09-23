@@ -7,10 +7,12 @@ import {
   TableRow,
   TableRowColumn,
 } from 'material-ui/Table';
+import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
  class TableList extends React.Component {
    render() {
      return(
+       <MuiThemeProvider>
       <Table>
         <TableHeader adjustForCheckbox={false} displaySelectAll={false}>
           <TableRow>
@@ -26,7 +28,7 @@ import {
             {this.props.arrData.map(item => {
               if(item.percent >= 0) {
                 return (
-                  <TableRow>
+                  <TableRow key = {item.code}>
                     <TableRowColumn style={{width: '15%'}}>{item.code}</TableRowColumn>
                     <TableRowColumn style = {{whiteSpace: 'normal'}}>{item.company}</TableRowColumn>
                     <TableRowColumn style={{textAlign: 'right'}}>{item.price.toFixed(2)}</TableRowColumn>
@@ -37,7 +39,7 @@ import {
                 );
               }
               return (
-                <TableRow>
+                <TableRow key = {item.code}>
                   <TableRowColumn style={{width: '15%'}}>{item.code}</TableRowColumn>
                   <TableRowColumn style = {{whiteSpace: 'normal'}}>{item.company}</TableRowColumn>
                   <TableRowColumn style={{textAlign: 'right'}}>{item.price.toFixed(2)}</TableRowColumn>
@@ -51,6 +53,7 @@ import {
           </TableBody>
 
       </Table>
+      </MuiThemeProvider>
     );
   }
 }
